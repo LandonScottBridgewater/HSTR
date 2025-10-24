@@ -1,0 +1,3 @@
+Domestic and international tourist volume data of 2010-2019 has a correlation of 0.948. If you include the year 2020, however, the correlation drops to 0.625. I see the former correlation as being more reliable due to extraordinary circumstances of the COVID-19 pandemic. This is to say we may subsitute US international tourism to reliably estimate domestic tourism volume. 
+
+For each international trip there were ~30 domestic trips

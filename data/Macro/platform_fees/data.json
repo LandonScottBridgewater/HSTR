@@ -1,0 +1,14 @@
+{
+    "AirBnB":{
+        "MKT":44,
+        "Rate":0.03
+    },
+    "Booking.com":{
+        "MKT":18,
+        "Rate":0.15
+    },
+    "Vrbo":{
+        "MKT":9,
+        "Rate":0.08
+    }
+}

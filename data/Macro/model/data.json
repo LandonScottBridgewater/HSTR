@@ -1,0 +1,764 @@
+{
+    "Statewide": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 37219.05
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 2484.76,
+                        "Maintenance": 15100.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 1963.0,
+                    "Total": 22227
+                }
+            },
+            "Profit": 14992,
+            "Home Value": 755000,
+            "Occupancy": 0.42769384027893076,
+            "Island": "Statewide",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 58031.35
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 3874.21,
+                        "Maintenance": 15600.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2028.0,
+                    "Total": 24158
+                }
+            },
+            "Profit": 33873,
+            "Home Value": 780000,
+            "Occupancy": 0.6429389859639072,
+            "Island": "Statewide",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 71123.9
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 4748.27,
+                        "Maintenance": 16200.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2106.0,
+                    "Total": 25674
+                }
+            },
+            "Profit": 45450,
+            "Home Value": 810000,
+            "Occupancy": 0.659403823018313,
+            "Island": "Statewide",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 61418.55
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 4100.34,
+                        "Maintenance": 16800.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2184.0,
+                    "Total": 25668
+                }
+            },
+            "Profit": 35751,
+            "Home Value": 840000,
+            "Occupancy": 0.5015460070369976,
+            "Island": "Statewide",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 61498.85
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 4105.7,
+                        "Maintenance": 17400.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2262.0,
+                    "Total": 26316
+                }
+            },
+            "Profit": 35183,
+            "Home Value": 870000,
+            "Occupancy": 0.52100144837575,
+            "Island": "Statewide",
+            "Year": "2024"
+        }
+    },
+    "Oahu": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 16000.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2800.0,
+                    "Total": 20642
+                }
+            },
+            "Profit": -20642,
+            "Home Value": 800000,
+            "Occupancy": 1.0,
+            "Island": "Oahu",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 16500.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2887.5,
+                    "Total": 21184
+                }
+            },
+            "Profit": -21184,
+            "Home Value": 825000,
+            "Occupancy": 1.0,
+            "Island": "Oahu",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 17000.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 2975.0,
+                    "Total": 21726
+                }
+            },
+            "Profit": -21726,
+            "Home Value": 850000,
+            "Occupancy": 1.0,
+            "Island": "Oahu",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 17500.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3062.5,
+                    "Total": 22268
+                }
+            },
+            "Profit": -22268,
+            "Home Value": 875000,
+            "Occupancy": 1.0,
+            "Island": "Oahu",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 18000.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3150.0,
+                    "Total": 22810
+                }
+            },
+            "Profit": -22810,
+            "Home Value": 900000,
+            "Occupancy": 1.0,
+            "Island": "Oahu",
+            "Year": "2024"
+        }
+    },
+    "Maui": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 15000.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 4305.0,
+                    "Total": 19642
+                }
+            },
+            "Profit": -19642,
+            "Home Value": 750000,
+            "Occupancy": 1.0,
+            "Island": "Maui",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 15300.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 4391.1,
+                    "Total": 19984
+                }
+            },
+            "Profit": -19984,
+            "Home Value": 765000,
+            "Occupancy": 1.0,
+            "Island": "Maui",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 15600.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 4477.2,
+                    "Total": 20326
+                }
+            },
+            "Profit": -20326,
+            "Home Value": 780000,
+            "Occupancy": 1.0,
+            "Island": "Maui",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 15900.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 4563.3,
+                    "Total": 20668
+                }
+            },
+            "Profit": -20668,
+            "Home Value": 795000,
+            "Occupancy": 1.0,
+            "Island": "Maui",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 16200.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 4649.4,
+                    "Total": 21010
+                }
+            },
+            "Profit": -21010,
+            "Home Value": 810000,
+            "Occupancy": 1.0,
+            "Island": "Maui",
+            "Year": "2024"
+        }
+    },
+    "Molokai": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4642
+                }
+            },
+            "Profit": -4642,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Molokai",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4684
+                }
+            },
+            "Profit": -4684,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Molokai",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4726
+                }
+            },
+            "Profit": -4726,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Molokai",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4768
+                }
+            },
+            "Profit": -4768,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Molokai",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4810
+                }
+            },
+            "Profit": -4810,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Molokai",
+            "Year": "2024"
+        }
+    },
+    "Lanai": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4642
+                }
+            },
+            "Profit": -4642,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Lanai",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4684
+                }
+            },
+            "Profit": -4684,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Lanai",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4726
+                }
+            },
+            "Profit": -4726,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Lanai",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4768
+                }
+            },
+            "Profit": -4768,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Lanai",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 0.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 0.0,
+                    "Total": 4810
+                }
+            },
+            "Profit": -4810,
+            "Home Value": 0,
+            "Occupancy": 1.0,
+            "Island": "Lanai",
+            "Year": "2024"
+        }
+    },
+    "Hawaii Island": {
+        "2020": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 7300.0,
+                        "Utilities": 1422.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3412.75,
+                    "Total": 11942
+                }
+            },
+            "Profit": -11942,
+            "Home Value": 365000,
+            "Occupancy": 1.0,
+            "Island": "Hawaii Island",
+            "Year": "2020"
+        },
+        "2021": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 7500.0,
+                        "Utilities": 1464.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3506.25,
+                    "Total": 12184
+                }
+            },
+            "Profit": -12184,
+            "Home Value": 375000,
+            "Occupancy": 1.0,
+            "Island": "Hawaii Island",
+            "Year": "2021"
+        },
+        "2022": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 7700.0,
+                        "Utilities": 1506.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3599.75,
+                    "Total": 12426
+                }
+            },
+            "Profit": -12426,
+            "Home Value": 385000,
+            "Occupancy": 1.0,
+            "Island": "Hawaii Island",
+            "Year": "2022"
+        },
+        "2023": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 7900.0,
+                        "Utilities": 1548.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3693.25,
+                    "Total": 12668
+                }
+            },
+            "Profit": -12668,
+            "Home Value": 395000,
+            "Occupancy": 1.0,
+            "Island": "Hawaii Island",
+            "Year": "2023"
+        },
+        "2024": {
+            "Revenue": {
+                "Gross Annual Revenue": 0
+            },
+            "Expenses": {
+                "Annual": {
+                    "Operating": {
+                        "Platforms": 0.0,
+                        "Maintenance": 8100.0,
+                        "Utilities": 1590.0,
+                        "Insurance": 2500
+                    },
+                    "Capital": {
+                        "Furniture": 720
+                    },
+                    "Property Taxes": 3786.75,
+                    "Total": 12910
+                }
+            },
+            "Profit": -12910,
+            "Home Value": 405000,
+            "Occupancy": 1.0,
+            "Island": "Hawaii Island",
+            "Year": "2024"
+        }
+    }
+}

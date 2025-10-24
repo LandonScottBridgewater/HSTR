@@ -1,0 +1,1 @@
+This contains data from AirBnB's provided csv file on Hawaiian Short Term Rentals

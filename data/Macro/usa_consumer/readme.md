@@ -1,0 +1,1 @@
+VFR travel will increase as Hawaiians migrate to mainland

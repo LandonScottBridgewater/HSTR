@@ -1,0 +1,1 @@
+Use the total number of consumers multiplied by the estimated average spending on living space to calculate the market size of the living space industry for Hawaiian travelers, based on NTTO survey data. This model can then be used to input projected changes and forecast future market trends.
